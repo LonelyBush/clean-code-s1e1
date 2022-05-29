@@ -55,7 +55,7 @@ button {
     color: #888;
     font-size: 15px;
     width: 60px;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato', sans-serif;
     cursor: pointer;
 }
 
@@ -64,7 +64,7 @@ button:hover {
 }
 
 /* Heading */
-h3,
+.title,
 .new-task__label {
     color: #333;
     font-weight: 700;
@@ -115,7 +115,7 @@ input[type="text"]:focus {
     color: #888;
     font-size: 15px;
     width: 60px;
-    font-family: Lato, sans-serif;
+    font-family: 'Lato', sans-serif;
     cursor: pointer;
 }
 
