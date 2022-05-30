@@ -49,7 +49,7 @@ button{
     outline:none;
 }
 
-button {
+.button-style {
     background: none;
     border: 0px;
     color: #888;
@@ -59,7 +59,7 @@ button {
     cursor: pointer;
 }
 
-button:hover {
+.button-style:hover {
     color: #3a3A3a;
 }
 
@@ -107,20 +107,6 @@ input[type="text"]:focus {
 
 .new-task__content {
     display: flex;
-}
-
-.new-task__button__add {
-    background: none;
-    border: 0px;
-    color: #888;
-    font-size: 15px;
-    width: 60px;
-    font-family: 'Lato', sans-serif;
-    cursor: pointer;
-}
-
-.new-task__button__add:hover {
-    color: #3a3A3a;
 }
 
 /* Task list */
