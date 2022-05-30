@@ -75,7 +75,7 @@ button{
     text-transform: uppercase;
 }
 
-input[type="text"] {
+.text-format {
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -88,7 +88,7 @@ input[type="text"] {
     color: #888;
 }
 
-input[type="text"]:focus {
+.text-format:focus {
     color: #333;
 }
 
